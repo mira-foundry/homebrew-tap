@@ -1,7 +1,7 @@
 # Homebrew tap for Mira Terminal
 
 ```
-brew install --cask dump-addict/tap/mira-terminal
+brew install --cask mira-foundry/tap/mira-terminal
 ```
 
-[Mira Terminal](https://github.com/dump-addict/MIRA-TERMINAL) is the all-in-one project terminal.
+[Mira Terminal](https://github.com/mira-foundry/MIRA-TERMINAL) is the all-in-one project terminal.
