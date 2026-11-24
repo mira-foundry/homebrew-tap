@@ -4,4 +4,4 @@
 brew install --cask mira-foundry/tap/mira-terminal
 ```
 
-[Mira Terminal](https://github.com/mira-foundry/MIRA-TERMINAL) is the all-in-one project terminal.
+[Mira Terminal](https://github.com/mira-foundry/mira-terminal) is the all-in-one project terminal.

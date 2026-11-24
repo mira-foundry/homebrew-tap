@@ -8,10 +8,10 @@ cask "mira-terminal" do
   sha256 arm:   "33993b4d4bfa1b3ba362d0a2546f36cdcf2e38977ca283cce3403b65af63b8e0",
          intel: "b95a22dd61b6fed694c9e5faf4b54f6081a4018374863ac3e61b112b5537a30a"
 
-  url "https://github.com/mira-foundry/MIRA-TERMINAL/releases/download/v#{version}/Mira-Terminal-macos-#{arch}.dmg"
+  url "https://github.com/mira-foundry/mira-terminal/releases/download/v#{version}/Mira-Terminal-macos-#{arch}.dmg"
   name "Mira Terminal"
   desc "Terminal for all your projects, agents and tasks"
-  homepage "https://github.com/mira-foundry/MIRA-TERMINAL"
+  homepage "https://github.com/mira-foundry/mira-terminal"
 
   livecheck do
     url :url
