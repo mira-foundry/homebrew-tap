@@ -4,9 +4,9 @@
 cask "mira-terminal" do
   arch arm: "arm64", intel: "x64"
 
-  version "0.1.2"
-  sha256 arm:   "fc80e051921ca58f29c8afaead735dec68c16e3a17acc3cc99e25835346d8ea7",
-         intel: "01e9b3325a7a18dca15c53294ea056929f59a6f25d06306c5f41f1ab25ce48de"
+  version "0.1.3"
+  sha256 arm:   "9734320b2586da10421744fe80e7e106228cba99e7f91b83008024f9e65e613b",
+         intel: "9303bf19e164ede1ee86ffb7c9abb8769e16b5ec131af4ad32be4afbe68ed69f"
 
   url "https://github.com/mira-foundry/mira-terminal/releases/download/v#{version}/Mira-Terminal-macos-#{arch}.dmg"
   name "Mira Terminal"
